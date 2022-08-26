@@ -1,2 +1,2 @@
 # assignament_3_pandas
-Pandas operation
+Learn various Pandas operation
